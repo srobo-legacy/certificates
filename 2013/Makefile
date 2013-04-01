@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-.PHONY: all clean
+.PHONY: all clean zip
 
 # $(1): Placeholder text
 # $(2): Text to replace placeholder with
@@ -47,6 +47,9 @@ participation_blank.pdf: participation.svg
 
 participation_example.pdf: participation.svg
 	$(call replace_and_export,COMPETITOR NAME,Richard Paul Barlow)
+
+zip: all readme.txt speculum.ttf
+	zip srobo_2013_certificates.zip position_*.pdf special_*.pdf participation_*.pdf readme.txt speculum.ttf
 
 clean:
 	rm -fr participation_*.pdf position_*.pdf special_*.pdf
