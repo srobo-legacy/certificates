@@ -32,8 +32,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="537.43553"
-     inkscape:cy="586.69208"
+     inkscape:cx="384.70047"
+     inkscape:cy="677.20175"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="true"
@@ -1422,15 +1422,15 @@
          id="flowPara3239" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3241"
-       style="font-size:11px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:-12px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       transform="translate(10.629921,-10.629921)"><flowRegion
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:-12px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(8.8903811,-7.0822559)"><flowRegion
          id="flowRegion3243"><rect
            id="rect3245"
-           width="671.75146"
-           height="106.06602"
-           x="35.355339"
-           y="290.10107"
-           style="text-align:center;line-height:100%;letter-spacing:-12px;text-anchor:middle" /></flowRegion><flowPara
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;text-anchor:middle;font-family:Speculum;-inkscape-font-specification:Speculum"
+           width="655.51178"
+           height="141.73228"
+           x="42.519684"
+           y="265.74805"
+           style="text-align:center;line-height:100%;letter-spacing:-12px;text-anchor:middle;font-size:40px" /></flowRegion><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;text-anchor:middle;font-family:Speculum;-inkscape-font-specification:Speculum"
          id="flowPara3240">COMPETITOR NAME</flowPara></flowRoot>  </g>
 </svg>

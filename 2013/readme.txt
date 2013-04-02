@@ -2,7 +2,7 @@ Artwork and data for 400 A4 Personalised Certificates (Quote: 155628)
 =====================================================================
 
 Main artwork: participation_blank.pdf
-Font for names: speculum.ttf
+Font for names: speculum.ttf - 32pt, black, centred (as in example) - Long names can be split over multiple lines.
 Example certificate: participation_example.pdf (Not to be printed)
 VDP data: names.xls
 
