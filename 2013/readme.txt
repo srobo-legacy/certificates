@@ -6,7 +6,7 @@ Font for names: speculum.ttf - 32pt, black, centred (as in example) - Long names
 Example certificate: participation_example.pdf (Not to be printed)
 VDP data: names.xls
 
-Please print personalised certificates using the specified font and the names from names.xls.
+Please print personalised certificates using the specified font and the 327 names from names.xls.
 Please print remaining certificates, up to a total of 400, with a blank space instead of a name.
 
 
