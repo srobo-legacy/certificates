@@ -49,7 +49,7 @@ participation_example.pdf: participation.svg
 	$(call replace_and_export,COMPETITOR NAME,Richard Paul Barlow)
 
 zip: all readme.txt speculum.ttf
-	zip srobo_2013_certificates.zip position_*.pdf special_*.pdf participation_*.pdf readme.txt speculum.ttf names.xls
+	zip srobo_2014_certificates.zip position_*.pdf special_*.pdf participation_*.pdf readme.txt speculum.ttf names.xls
 
 clean:
 	rm -fr participation_*.pdf position_*.pdf special_*.pdf
