@@ -14,7 +14,7 @@
    height="1073.6221"
    id="svg2491"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="position.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/richard/srobo/svn/competition/certificates/certificate.png"
@@ -31,17 +31,17 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="301.68469"
-     inkscape:cy="559.28665"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="327.55165"
+     inkscape:cy="631.54732"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="true"
      showguides="false"
      inkscape:window-width="1280"
-     inkscape:window-height="745"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-height="910"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="mm">
     <inkscape:grid
@@ -1354,7 +1354,7 @@
     </g>
     <g
        id="g3554"
-       transform="matrix(0.37302512,0,0,0.37302512,43.398228,14.1853)">
+       transform="matrix(0.37302512,0,0,0.37302512,-2.601772,14.1853)">
       <g
          transform="translate(0.75454682,-329.25543)"
          id="layer1-4"
@@ -1558,7 +1558,20 @@
          id="tspan5548"
          x="348.05557"
          y="563.3858">in the</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3241"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:-12px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+       transform="translate(19.48253,-1.9371406)"><flowRegion
+         id="flowRegion3243"><rect
+           id="rect3245"
+           width="655.51178"
+           height="141.73228"
+           x="42.519684"
+           y="265.74805"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:-12px;text-anchor:middle;font-family:Eurostile;-inkscape-font-specification:Eurostile" /></flowRegion><flowPara
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;text-anchor:middle;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+         id="flowPara3240">COMPETITOR_NAME</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -1589,5 +1602,5 @@
            y="454.35187"
            style="font-size:48.31476212px;text-align:center;text-anchor:middle;fill:#0d1f61;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:62.11898041px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#0d1f61;fill-opacity:1;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
-         id="flowPara3083-0">POSITION Place</flowPara></flowRoot>  </g>
+         id="flowPara3083-0">POSITION</flowPara></flowRoot>  </g>
 </svg>
