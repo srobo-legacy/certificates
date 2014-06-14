@@ -14,7 +14,7 @@
    height="1073.6221"
    id="svg2491"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="position.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/richard/srobo/svn/competition/certificates/certificate.png"
@@ -35,13 +35,13 @@
      inkscape:cx="301.68469"
      inkscape:cy="559.28665"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="true"
      showguides="false"
      inkscape:window-width="1280"
-     inkscape:window-height="745"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-height="910"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="mm">
     <inkscape:grid
@@ -1589,5 +1589,5 @@
            y="454.35187"
            style="font-size:48.31476212px;text-align:center;text-anchor:middle;fill:#0d1f61;fill-opacity:1" /></flowRegion><flowPara
          style="font-size:62.11898041px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#0d1f61;fill-opacity:1;font-family:Eurostile;-inkscape-font-specification:Eurostile Bold"
-         id="flowPara3083-0">POSITION Place</flowPara></flowRoot>  </g>
+         id="flowPara3083-0">SOME POSITION</flowPara></flowRoot>  </g>
 </svg>

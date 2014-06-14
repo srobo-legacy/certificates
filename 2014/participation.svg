@@ -38,10 +38,10 @@
      inkscape:current-layer="layer4"
      showgrid="true"
      showguides="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1022"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="910"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="mm">
     <inkscape:grid
@@ -1591,7 +1591,7 @@
          id="flowPara3239" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3241"
-       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:-12px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile;font-stretch:normal;font-variant:normal"
+       style="font-size:56px;font-style:normal;font-weight:normal;text-align:center;line-height:100%;letter-spacing:-12px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Karla;-inkscape-font-specification:Karla;font-stretch:normal;font-variant:normal;writing-mode:lr"
        transform="translate(8.8903811,-7.0822559)"><flowRegion
          id="flowRegion3243"><rect
            id="rect3245"
@@ -1599,7 +1599,7 @@
            height="141.73228"
            x="42.519684"
            y="265.74805"
-           style="text-align:center;line-height:100%;letter-spacing:-12px;text-anchor:middle;font-size:40px;-inkscape-font-specification:Eurostile;font-family:Eurostile;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRegion><flowPara
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;text-anchor:middle;font-family:Eurostile;-inkscape-font-specification:Eurostile"
+           style="text-align:center;line-height:100%;letter-spacing:-12px;text-anchor:middle;font-size:56px;-inkscape-font-specification:Karla;font-family:Karla;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;writing-mode:lr" /></flowRegion><flowPara
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;text-anchor:middle;font-family:Karla;-inkscape-font-specification:Karla;writing-mode:lr"
          id="flowPara3240">COMPETITOR NAME</flowPara></flowRoot>  </g>
 </svg>
